@@ -8,11 +8,11 @@ Our mission is to build and maintain a comprehensive database of gubernatorial s
 
 ## Features and Resources
 
-Comprehensive Database: Access our extensive collection of gubernatorial speeches from across the United States, providing a wealth of information on key governmental addresses and announcements.
-Promoting Understanding: GSP aims to foster transparency and understanding in government by making gubernatorial speeches easily accessible to researchers, journalists, and interested citizens.
-Expert Guidance: Our team of experts is available to assist users in effectively utilizing our database and making the most of the available resources. Feel free to reach out to us with any questions or inquiries.
-Get Involved
+- **Comprehensive Database:** Access our extensive collection of gubernatorial speeches from across the United States, providing a wealth of information on key governmental addresses and announcements.
+- **Promoting Understanding:** GSP aims to foster transparency and understanding in government by making gubernatorial speeches easily accessible to researchers, journalists, and interested citizens.
+- **Expert Guidance:** Our team of experts is available to assist users in effectively utilizing our database and making the most of the available resources. Feel free to reach out to us with any questions or inquiries.
 
+## Get Involved
 GSP welcomes collaboration and encourages community involvement. If you have suggestions, feedback, or contributions to enhance our database or improve our resources, we would love to hear from you. Together, we can continue to improve and expand this valuable repository of gubernatorial speeches.
 
 ## Contact Us
